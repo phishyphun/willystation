@@ -1,4 +1,5 @@
 site_name: WillyStation
+site_url: https://willystation.com
 theme:
   name: material
   features: 
