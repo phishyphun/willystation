@@ -1,5 +1,4 @@
 site_name: WillyStation
-site_url: https://phishyphun.github.io/
 theme:
   name: material
   features: 
