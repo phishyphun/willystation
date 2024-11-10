@@ -18,5 +18,5 @@ Please share the email that you used to sign up with on Plex.tv with Willy via:
 Once I receive your Plex email, I will send you an invite to my server via e-mail.
 <br>
 <br>
-Please check your email for the library invite and follow the link to accept!
+Please check your email for the library invite and follow the link to accept
 
