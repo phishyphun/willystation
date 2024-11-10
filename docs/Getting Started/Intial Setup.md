@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-• On your favorite stream device, find and install the Plex app.
+On your favorite stream device, find and install the Plex app.
 <br>
 <br>
 
@@ -16,7 +16,7 @@ Please download the <a href="https://www.plex.tv/media-server-downloads/?cat=ple
 <br>
 
 <br>
-• Once installed, sign in with your Plex account.
+Once installed, sign in with your Plex account.
 <br>
 <br>
 
@@ -39,7 +39,9 @@ Music
 <br>&dagger; By Request Only</br>
 
 <br>
-• After setting up your libraries, head to:
+**Important Final Step:** 
+
+After [optionally] setting up your libraries, head to:
 <br>
 <br>
 > Settings > Quality
@@ -51,3 +53,9 @@ Music
 Change Remote and Local/Home Streaming Quality settings to "Maximum" or "Original" (platform dependent)
 <br>
 >> note: this setting will need to be changed *once* upon login for any new device.
+
+<br>
+After signing in to the Plex App, you can start streaming Movies and TV Shows!
+<br>
+<br>
+If you plan to request Movies or TV Shows, head <a href="/Request%20Movies%20%26%20Shows/Requesting%20Movies%20%26%20Shows/" class="btn btn-primary" role="button">here</a>.
