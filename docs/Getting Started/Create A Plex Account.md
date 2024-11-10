@@ -13,7 +13,7 @@
 <p>
 • Text (IYKYK)
 <br>
-• Email - willyplex6@gmail.com
+• Email - willy@willystation.com
 <br>
 <br>
 Once your Plex email is received, an invite to the server will be sent to you via e-mail.
