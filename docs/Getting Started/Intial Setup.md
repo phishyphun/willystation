@@ -58,4 +58,4 @@ Change Remote and Local/Home Streaming Quality settings to "Maximum" or "Origina
 After signing in to the Plex App, you can start streaming Movies and TV Shows!
 <br>
 <br>
-If you plan to request Movies or TV Shows, head <a href="/Request%20Movies%20%26%20Shows/Requesting%20Movies%20%26%20Shows/" class="btn btn-primary" role="button">here</a>.
+If you plan to request Movies or TV Shows, head <a href="Request%20Movies%20%26%20Shows/Requesting%20Movies%20%26%20Shows/" class="btn btn-primary" role="button">here</a>.
