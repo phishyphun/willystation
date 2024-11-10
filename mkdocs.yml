@@ -31,6 +31,6 @@ nav:
   - Home: index.md
   - Getting Started:
     - Creating A Plex Account: Getting Started/Create A Plex Account.md
-    - Initial Setup: Getting Started\Intial Setup.md
+    - Initial Setup: Getting Started/Intial Setup.md
   - Requesting Movies & TV Shows:
-    - Requesting Movies & TV Shows: Request Movies & Shows\Requesting Movies & Shows.md
+    - Requesting Movies & TV Shows: Request Movies & Shows/Requesting Movies & Shows.md
