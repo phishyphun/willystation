@@ -22,6 +22,6 @@ Once your Plex email is received, an invite to the server will be sent to you vi
 Please check your email for the library invite from Plex.tv and follow the link to accept.
 
 <div class="text-center">
-<a href="Getting%20Started/Intial%20Setup/" class="btn btn-primary" role="button">After server invite is accepted...</a>
+<a href="/Getting%20Started/Intial%20Setup/" class="btn btn-primary" role="button">After server invite is accepted...</a>
 </div>
 
