@@ -21,9 +21,6 @@ Once your Plex email is received, an invite to the server will be sent to you vi
 <br>
 Please check your email for the library invite from Plex.tv and follow the link to accept.
 
-<a href="Getting%20Started/Intial%20Setup" class="btn btn-primary" role="button">HELLLLLOOOOOO</a>
-
-
 <div class="text-center">
-<a href="/willystation/Getting%20Started/Intial%20Setup" class="btn btn-primary" role="button">Next...</a>
+<a href="/willystation/Getting%20Started/Intial%20Setup/" class="btn btn-primary" role="button">Next Section: Initial Setup</a>
 </div>

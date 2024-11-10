@@ -56,3 +56,6 @@ Change Remote and Local/Home Streaming Quality settings to "Maximum" or "Origina
 
 <br>
 After signing in to the Plex App, you can start streaming Movies and TV Shows!
+<br>
+<br>
+<a href="/willystation/Request%20Movies%20%26%20Shows/Requesting%20Movies%20%26%20Shows/"class="btn btn-primary" role="button">Next Section: Request Movies & TV</a>
