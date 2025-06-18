@@ -1,7 +1,9 @@
 **Please visit the <a href="https://request.willystation.com">WillyStation Request Site</a> aka Overseerr to request movies and shows!**
 <br>
 <br>
-• Sign in using your own Plex account.
+• Sign in using your own Plex account:
+
+<img src="https://i.imgur.com/bjj5u8P.png"/>
 
 • Search Movie/Show and simply click "Request" button.
 <br>
