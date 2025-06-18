@@ -20,3 +20,5 @@ TV series are not.
 For long-form tv series, please only request one or two seasons at a time and I will review and approve request.
 
 *If a TV request has not been approved within 24 hours, please email or text.*
+
+<a href="/Request Movies & Shows/Adding Overseerr As An App""class="btn btn-primary" role="button">Next Section: Adding Overseerr As An App</a>
