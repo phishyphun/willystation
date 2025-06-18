@@ -28,31 +28,15 @@ Anime
 <br>
 Anime (Film)
 <br>
-Movies
-<br>Movies (4K) &dagger;</br>
-TV
-<br>TV (4K) &dagger;</br>
+Movies (Shared)
+<br>Movies &dagger;</br>
+TV (Shared)
+<br>TV &dagger;</br>
 Music (Videos)
 <br>
 Music
 <br>The Adult Section &dagger;</br>
 <br>&dagger; By Request Only</br>
-
-<br>
-**Important Final Step:** 
-
-After [optionally] setting up your libraries, head to:
-<br>
-<br>
-> Settings > Quality
-<br>
-<br>
-> Disable any setting like "Use Recommended Settings"
-<br>
-<br>
-Change Remote and Local/Home Streaming Quality settings to "Maximum" or "Original" (platform dependent)
-<br>
->> note: this setting will need to be changed *once* upon login for any new device.
 
 <br>
 After signing in to the Plex App, you can start streaming Movies and TV Shows!
