@@ -37,3 +37,5 @@ Music (Videos)
 Music
 <br>The Adult Section &dagger;</br>
 <br>&dagger; These libraries contain 4k HDR/DV content and are by request only. Please let me know if you would like access to these!</br>
+
+<a href="/Getting Started/Quality Setup""class="btn btn-primary" role="button">Next Section: One-Time Quality Settings Setup</a>
