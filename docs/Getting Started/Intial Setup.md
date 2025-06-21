@@ -37,9 +37,3 @@ Music (Videos)
 Music
 <br>The Adult Section &dagger;</br>
 <br>&dagger; These libraries contain 4k HDR/DV content and are by request only. Please let me know if you would like access to these!</br>
-
-<br>
-After signing in to the Plex App, you can start streaming Movies and TV Shows!
-<br>
-<br>
-<a href="/Request Movies & Shows/Requesting Movies & Shows""class="btn btn-primary" role="button">Next Section: Request Movies & TV</a>
