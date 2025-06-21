@@ -1,10 +1,8 @@
-One last item to note is changing the global quality settings on the Plex app.
+One last item to note is changing the global quality settings on the Plex app:
 
-Navigate to Plex settings
-
-Navigate to Video/Player
-
-Change "Remote Quality" to Original/Maximum (depending on client)
+• Navigate to Plex settings
+• Navigate to Video/Player
+• Change "Remote Quality" to Original/Maximum (depending on client)
 
 ~NOTE~ 
 This will only need to be done once per device. If you ever upgrade your stream box or use another way to stream Plex, you will need to follow these instructions again.
