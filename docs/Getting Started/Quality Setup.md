@@ -1,7 +1,9 @@
 One last item to note is changing the global quality settings on the Plex app:
 
 • Navigate to Plex settings
+
 • Navigate to Video/Player
+
 • Change "Remote Quality" to Original/Maximum (depending on client)
 
 ~NOTE~ 
