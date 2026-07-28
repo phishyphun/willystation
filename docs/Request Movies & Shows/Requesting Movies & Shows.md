@@ -3,7 +3,9 @@
 <br>
 • Sign in using your own Plex account:
 
-<img src="https://i.imgur.com/bjj5u8P.png"/>
+<img src="https://i.imgur.com/bjj5u8P.png"
+     onclick="document.getElementById('lightbox-img').src=this.src;document.getElementById('lightbox').style.display='flex';"
+     style="max-width:250px !important; width:100% !important; height:auto !important; border-radius:8px; cursor:zoom-in; display:block; margin:10px 0;">
 
 • Search Movie/Show and simply click "Request" button.
 <br>
